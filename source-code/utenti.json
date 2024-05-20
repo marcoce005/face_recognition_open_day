@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Cellini_Marco",
+        "eta": "eta' = 17",
+        "classe": "classe = 4 INF"
+    },
+    {
+        "name": "Licciardino_Matteo",
+        "eta": "eta' = 18",
+        "classe": "classe = 4 INF"
+    },
+    {
+        "name": "Andrea_Canale",
+        "eta": "eta' = 17",
+        "classe":"classe = 4 INF"
+    },
+    {
+        "name": "prof_Mancuso",
+        "eta": "",
+        "classe": "Docente indirizzo informatico"
+    },
+    {
+        "name": "Gabriele_Vallosio",
+        "eta": "eta' = 17",
+        "classe": "classe = 3 INF"
+    },
+    {
+        "name": "Rizzolo_Lorenzo",
+        "eta": "eta' = 17",
+        "classe": "classe = 4 INF"
+    },
+    {
+        "name": "Linus_Torvalds",
+        "eta" : "eta' = 53",
+        "classe": "Inventore del kernel Linux"
+    },
+    {
+        "name": "Gioele_Mari",
+        "eta": "eta' = 17",
+        "classe":"classe = 4 INF"
+    },
+    {
+        "name" : "Apetroaie_Antonio",
+        "eta": "eta' = 18",
+        "classe": "classe = 4 INF"
+    }
+]
