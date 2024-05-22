@@ -17,6 +17,11 @@ Costruire il docker [potrebbe volerci in un po']:
     docker build -t faceRecognitionImage .
 ```
 
+Abilitare il video [su X11]:
+```
+    xhost +
+```
+
 Far partire il docker [la prima volta]:
 ```
     docker run --name webcam --device /dev/video0:/dev/video0 --net=host -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix faceRecognitionImage
